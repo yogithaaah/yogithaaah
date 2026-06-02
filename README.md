@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogitha</h1>
-<h3 align="center">A passionate cybersecurity enthusiast from India with a Computer Science Degree.</h3>
+<h3 align="center">A Passionate Cybersecurity enthusiast with a Computer Science Degree.</h3>
 
 - 🌱 I’m currently learning **Web Application Security**
 
