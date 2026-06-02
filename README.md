@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://substack.com/@yogithatippireddy](https://substack.com/@yogithatippireddy)
 
-- 📫 How to reach me **ytippireddy@gmail.com**
+- 📫 Reach me at **ytippireddy@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qfjtUyYi-COKfCaDJUbpxzNMd5qMOU4h/view?usp=sharing](https://drive.google.com/file/d/1qfjtUyYi-COKfCaDJUbpxzNMd5qMOU4h/view?usp=sharing)
 
