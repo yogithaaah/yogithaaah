@@ -1,4 +1,4 @@
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/70705a7a-180e-4743-9054-e2009a80f00b" /><h1 align="center">Hi 👋, I'm Yogitha</h1>
+<h1 align="center">Hi 👋, I'm Yogitha</h1>
 <h3 align="center">A Passionate Cybersecurity enthusiast with a Computer Science Degree.</h3>
 
 - 🌱 I’m currently learning **Web Application Security**
